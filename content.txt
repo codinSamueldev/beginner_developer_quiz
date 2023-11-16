@@ -1,0 +1,10 @@
+It is necessary to learn Linux OS?,a. Yes,b. No
+Which of the following agrees with the Zen of Python?,a. Plain better than nested,b. follow your gut
+Does coding actually put you tons of bags of money?,a. No,b. Yes
+Is coding just typing words on a computer screen?,a. Yes,b. No
+What do programmers drink to stay awake during coding marathons?,a. Coffee the elixir of the coding gods,b. Unicorn tears for that magical debugging power
+What's the best way to fix a computer problem?,a. Yell at it until it feels guilty,b. Turn it off and on again the ancient art of tech exorcism
+How do you comfort a JavaScript bug?,a. Tell it there are no more callbacks,b. Offer it a promise of a better future
+Is programming like playing video games?,a. Yes I level up every time I squash a bug,b. No I don't respawn after a syntax error
+What's a programmer's favorite exercise?,a. Typing at the speed of light,b. Lifting the weight of infinite loops
+How do you describe your coding style?,a. Elegant like poetry in Python,b. Chaotic like a Java program without comments
